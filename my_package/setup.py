@@ -6,7 +6,7 @@ setup(
     author='nadav',
     author_email='nadav.tsa@gmail.com',
     packages=['my_package'],
-    long_description=open('README.md').read()
+    long_description=open('../README.md').read()
 )
 
 # .Values.elasticsearchUrl
